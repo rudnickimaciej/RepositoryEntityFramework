@@ -17,9 +17,9 @@ namespace RepositoryEntityFramework.Repositories
         {
         }
 
-        public int GetAllQuestonsCount()
+        public int GetAllQuestionsCount()
         {
-            _context.
+            return (_context as ApplicationDbContext).Questions.Count();
         }
     }
 }

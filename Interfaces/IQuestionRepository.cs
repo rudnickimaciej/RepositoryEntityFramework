@@ -11,6 +11,6 @@ namespace RepositoryEntityFramework.Interfaces
     {
         //methods specific for this repository
 
-        int GetAllQuestonsCount();
+        int GetAllQuestionsCount();
     }
 }

@@ -16,8 +16,7 @@ namespace RepositoryEntityFramework
             using (var uow = new UnitOfWork(new ApplicationDbContext()))
             {
 
-                var q = uow.Questions.Get(1);
-                var questions = uow.Questions.GetAll();
+                uow.Questions.Add(new Question() { Id = 1, Content = "Question Content 1" });
 
                 uow.SaveChanges();
 
