@@ -1,0 +1,11 @@
+C:\Users\Maciek\Desktop\RepositoryEntityFramework\bin\Debug\RepositoryEntityFramework.exe.config
+C:\Users\Maciek\Desktop\RepositoryEntityFramework\bin\Debug\RepositoryEntityFramework.exe
+C:\Users\Maciek\Desktop\RepositoryEntityFramework\bin\Debug\RepositoryEntityFramework.pdb
+C:\Users\Maciek\Desktop\RepositoryEntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\Maciek\Desktop\RepositoryEntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maciek\Desktop\RepositoryEntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\Maciek\Desktop\RepositoryEntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maciek\Desktop\RepositoryEntityFramework\obj\Debug\RepositoryEntityFramework.csprojAssemblyReference.cache
+C:\Users\Maciek\Desktop\RepositoryEntityFramework\obj\Debug\RepositoryEntityFramework.csproj.CopyComplete
+C:\Users\Maciek\Desktop\RepositoryEntityFramework\obj\Debug\RepositoryEntityFramework.exe
+C:\Users\Maciek\Desktop\RepositoryEntityFramework\obj\Debug\RepositoryEntityFramework.pdb

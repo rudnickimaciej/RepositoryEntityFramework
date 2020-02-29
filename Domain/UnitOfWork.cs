@@ -10,20 +10,22 @@ namespace RepositoryEntityFramework.Domain
 {
     public class UnitOfWork : IUnitOfWork
     {
+        private readonly ApplicationDbContext _context;
         public UnitOfWork(ApplicationDbContext context)
         {
             Questions = new QuestionRepository(context);
+            _context = context;
         }
 
         public IQuestionRepository Questions { get; private set; }
         public void Dispose()
         {
-            throw new NotImplementedException();
+            _context.Dispose();
         }
 
         public void SaveChanges()
         {
-            throw new NotImplementedException();
+            _context.SaveChanges();
         }
     }
 }
